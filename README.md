@@ -33,11 +33,8 @@ Tools & Skills Used:
 
 # Dashboard Screenshots
 
-## dashboard 1.png
-dashboard 1 
-C:\Users\HP\OneDrive\Pictures\Screenshots 1\dashboard 1.png
+## Dashboard 1
+![Dashboard 1](images/dashboard1.png)
 
-## dashboard 2.png
-dashboard 2 
-"C:\Users\HP\OneDrive\Pictures\Screenshots 1\dashboard 2.png"
-
+## Dashboard 2
+![Dashboard 2](images/dashboard2.png)
