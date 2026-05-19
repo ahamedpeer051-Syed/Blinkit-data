@@ -34,7 +34,7 @@ Tools & Skills Used:
 # Dashboard Screenshots
 
 ## Dashboard 1
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](Screenshots/dashboard1.png)
 
 ## Dashboard 2
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](Screenshots/dashboard2.png)
